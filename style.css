@@ -1,0 +1,66 @@
+.p {
+	font-size: 20px;
+	background-color:black;
+}
+
+
+body{ 
+text-align: center;
+background-color:black;
+color:white;
+ }
+
+.banner {
+	min-height: 83vh;
+	min-width: 40vh;
+	color:gray;
+	font-size: 40px;
+	background-color:black;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color:black;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.header {
+	font-size:50px;
+}
+
+.image {
+	width:70%;
+	height:70%;
+}
+
+.project { 
+max-height:50%;
+max-width: 50%;
+}
+
+.intro { 
+color : white;
+font-size: 30px;
+ }
